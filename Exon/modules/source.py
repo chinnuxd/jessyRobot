@@ -14,7 +14,7 @@ ABISHNOIX = "https://telegra.ph/file/d67cd562f2905d02c20ba.jpg"
 @pbot.on_message(filters.command(["repo", "source"]))
 async def repo(_, message):
     await message.reply_photo(
-        photo=ABISHNOIX,
+        photo=ChinnuXD,
         caption=f"""✨ **ʜᴇʏ {message.from_user.mention},**
 
 **ʀᴇᴘᴏ ᴏᴡɴᴇʀ  : [Chinnu](https://t.me/ChinnuXd)**
