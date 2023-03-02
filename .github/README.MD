@@ -147,7 +147,7 @@ OWNER_ID =  sᴛᴀʀᴛ @JessyRobot & ᴛʏᴘᴇ /id
 <a href="https://t.me/Our_Hub"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://t.me/ChinnuXd"><img src="https://img.shields.io/badge/Abishnoi%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/ChinnuXd"><img src="https://img.shields.io/badge/chinnuxd%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 [ᴜᴘᴅᴀᴛɪɴɢ ʏᴏᴜʀ ғᴏʀᴋ ᴡɪᴛʜ ᴛʜᴇ ᴜᴘsᴛʀᴇᴀᴍ ʀᴇᴘᴏ](https://t.me/Our_Hub)
