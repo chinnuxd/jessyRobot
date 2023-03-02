@@ -12,22 +12,22 @@ def get_user_list(config, key):
         return json.load(json_file)[key]
 
 
-class Config(object):
+class Config(object):"
     LOGGER = True
 
-    API_ID = int(getenv("API_ID"))
-    API_HASH = getenv("API_HASH")
+    API_ID = int(getenv("API_ID", "21029851"))
+    API_HASH = getenv("API_HASH", "9217df9a40cf6eaf07f007e96d2cabd7")
     TOKEN = getenv("TOKEN", None)  # ɢᴇᴛ ᴏɴᴇ ғʀᴏᴍ @BotFather [ᴅᴏɴ'ᴛ ᴀᴅᴅ ʜᴇᴀʀ ʙᴏᴛ ᴛᴏᴋᴇɴ ]
-    OWNER_ID = int(getenv("OWNER_ID", "5938660179"))  # sᴛᴀʀᴛ @Exon_Robot ᴛʏᴘᴇ /id
-    OWNER_USERNAME = getenv("OWNER_USERNAME", None)  # ʏᴏᴜʀᴇ ᴛɢ ᴜsᴇʀɴᴀᴍᴇ ᴡɪᴛʜᴏᴜᴛ @
+    OWNER_ID = int(getenv("OWNER_ID", "6039116006"))  # sᴛᴀʀᴛ @Exon_Robot ᴛʏᴘᴇ /id
+    OWNER_USERNAME = getenv("OWNER_USERNAME", "ChinnuXD")  # ʏᴏᴜʀᴇ ᴛɢ ᴜsᴇʀɴᴀᴍᴇ ᴡɪᴛʜᴏᴜᴛ @
     SUPPORT_CHAT = getenv(
-        "SUPPORT_CHAT", "AbishnoiMF"
+        "SUPPORT_CHAT", "our_hub"
     )  # sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ ᴜsᴇʀɴᴀᴍᴇ ᴡɪᴛʜᴏᴜᴛ @
     EVENT_LOGS = int(
-        getenv("EVENT_LOGS", "-1001573019550")
+        getenv("EVENT_LOGS", "-1001691352611")
     )  # ʏᴏᴜʀ ʟᴏɢ ɢʀᴏᴜᴘ ɪᴅ ᴡɪᴛɢ (-)
     MONGO_DB_URI = getenv(
-        "MONGO_DB_URI", ""
+        "MONGO_DB_URI", "mongodb+srv://chinuxd:chinuxd@cluster0.1jucob6.mongodb.net/?retryWrites=true&w=majority"
     )  # ʀᴇǫᴜɪʀᴇᴅ ғᴏʀ ᴅᴀᴛᴀʙᴀsᴇ ᴄᴏɴɴᴇᴄᴛɪᴏɴs (ᴍᴏɴɢᴏ - https://cloud.mongodb.com/)
     DB_NAME = getenv("DB_NAME", "EXON_2")  # ᴅʙ  ɴᴀᴍᴇ
     DATABASE_URL = getenv(
