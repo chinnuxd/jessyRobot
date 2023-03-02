@@ -16,9 +16,9 @@
 ᴀɴᴅ ᴛʜᴇɴ ᴍᴀᴋᴇ ᴀ ɪssᴜᴇ ɪɴ ᴏᴜʀ ᴘʀᴏᴊᴇᴄᴛ.
 
 ## ᴄʀᴇᴅɪᴛ ꜰᴏʀ ᴇxᴏɴ ʀᴏʙᴏᴛ
-- [ɢɪᴛʜᴜʙ](https://github.com/Abishnoi69)
-- [ᴛᴇʟᴇɢʀᴀᴍ](https://t.me/Abishnoi1M)
-- [ᴄʜᴀᴛ ɢʀᴏᴜᴘ](https://t.me/AbishnoiMF)
+- [ɢɪᴛʜᴜʙ](https://github.com/chinnuxd)
+- [ᴛᴇʟᴇɢʀᴀᴍ](https://t.me/ChinnuXd)
+- [ᴄʜᴀᴛ ɢʀᴏᴜᴘ](https://t.me/Our_Hub)
 
 ## ɪɴғᴏ 
 *ᴛʜɪs ɪs ᴇxᴏɴ ʀᴏʙᴏᴛ ,ᴏᴩᴇɴ sᴏᴜʀᴄᴇ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ.*
@@ -28,9 +28,9 @@
 [ᴩʏᴛʜᴏɴ-ᴛᴇʟᴇɢʀᴀᴍ-ʙᴏᴛ](https://github.com/python-telegram-bot/python-telegram-bot), 
 ᴀɴᴅ ᴜsɪɴɢ [sǫʟᴀʟᴄʜᴇᴍʏ](https://www.sqlalchemy.org) ᴀɴᴅ [ᴍᴏɴɢᴏ](https://cloud.mongodb.com) ᴀs ᴅᴀᴛᴀʙᴀsᴇ.
 
-*ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :* [ɢɪᴛʜᴜʙ-ʟɪɴᴋ](https://github.com/Abishnoi69/ExonRobot)
+*ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :* [ɢɪᴛʜᴜʙ-ʟɪɴᴋ](https://github.com/chinnuxd/jessyrobot)
 
 
 ᴇxᴏɴ ʀᴏʙᴏᴛ ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [ᴍɪᴛ ʟɪᴄᴇɴsᴇ](https://github.com/Abishnoi69/ExonRobot/blob/master/LICENSE).
 
-© 2022 - 2023 [@ᴀʙɪsʜɴᴏɪᴍғ](https://t.me/AbishnoiMF), ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ
+© 2022 - 2023 [@chinnuxd](https://t.me/chinnuxd), ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ
