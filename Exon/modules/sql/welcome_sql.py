@@ -7,7 +7,7 @@ from sqlalchemy import BigInteger, Boolean, Column, Integer, String, UnicodeText
 from Exon.modules.helper_funcs.msg_types import Types
 from Exon.modules.sql import BASE, SESSION
 
-DEFAULT_WELCOME = "Hey {first}, how are you?"
+DEFAULT_WELCOME = "Hey babe {first}, how are you?"
 DEFAULT_GOODBYE = "Nice knowing ya!"
 
 DEFAULT_WELCOME_MESSAGES = [
